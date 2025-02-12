@@ -8,6 +8,9 @@ import ScrollToTop from "./components/ScrollToTop";
 import Navbar from "./components/Navbar";
 import TheyTrustUs from "./components/TheyTrustUs";
 import ContactForm from "./components/ContactForm";
+// import Spring_Slider from "./components/Spring_Slider";
+import Slider_Coverflow from "./components/Slider_Coverflow"
+
 
 
 export default function Home() {
@@ -23,6 +26,8 @@ export default function Home() {
           <div className="img">
               <Parallaximage src="/images/img1.jpg" alt="img" />
               <Navbar />
+              {/* <Spring_Slider /> */}
+              <Slider_Coverflow />
             </div>
           </section>
 
