@@ -49,9 +49,9 @@ const Footer = () => {
             <div className='text-center'>
                 <h3 className="text-xl font-bold mb-4">Contact Us</h3>
                 <ul className="text-gray-400 space-y-2">
-                <li>Email: info@example.com</li>
-                <li>Phone: +1 (123) 456-7890</li>
-                <li>Address: 123 Main St, City, Country</li>
+                <li>Email: adlafeliachi@gmail.com</li>
+                <li>Phone: +213 560 544 889</li>
+                <li>Address: Algeria</li>
                 </ul>
             </div>
 
@@ -75,7 +75,7 @@ const Footer = () => {
             {/* Bottom Section */}
             <div className="border-t-2 w-5/6 m-auto border-gray-800 mt-8 pt-8 text-center drop-shadow-xl">
             <p className="text-gray-400">
-                &copy; {new Date().getFullYear()} Groupe Chabane. All rights reserved.
+                &copy; {new Date().getFullYear()} Draft_template. All rights reserved.
             </p>
             </div>
         </div>
